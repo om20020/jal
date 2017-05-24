@@ -1,0 +1,7 @@
+Program hello;
+ 
+begin
+  WriteLn;
+  WriteLn( 'Hello World!');
+  WriteLn;
+end.
